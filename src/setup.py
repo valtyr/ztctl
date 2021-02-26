@@ -12,7 +12,7 @@ setup(
     download_url='https://github.com/valtyr/ztctl/archive/v0.1.tar.gz',
     keywords=['zerotier', 'zerotier-cli', 'ztctl'],
     install_requires=[
-        'aiohttp==3.5.4',
+        'aiohttp==3.7.4',
         'appnope==0.1.0',
         'async-timeout==3.0.1',
         'attrs==19.1.0',
